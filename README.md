@@ -11,3 +11,6 @@ generative model paper notes
     + precision matrix is parameterized in terms of a product of bidiagonal matrices
 * encoder (CNN) convolve over time dimension of the input, outputs a tensor of size T×3k, corresponding to timestep t and 3k parameters, where k is the dimensionality of the latent space
 
+
+
+<a href="https://arxiv.org/pdf/1904.06458.pdf">Transformable Bottleneck Networks</a>
