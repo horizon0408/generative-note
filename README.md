@@ -14,3 +14,7 @@ generative model paper notes
 
 
 <a href="https://arxiv.org/pdf/1904.06458.pdf">Transformable Bottleneck Networks</a>
+
+<a href="https://arxiv.org/pdf/1907.12704.pdf">Multi-Angle Point Cloud-VAE: Unsupervised Feature Learning for 3D Point
+Clouds from Multiple Angles by Joint Self-Reconstruction and Half-to-Half
+Prediction</a>
